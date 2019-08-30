@@ -1,6 +1,6 @@
 # Super-Mario-NES-To-CSharp
 
-Trnalated Super Mario Bros NES to C#.
+Translated Super Mario Bros NES to C#.
 
 Controls:
 
