@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioBTXNA", "MarioBTXNA\MarioBTXNA\MarioBTXNA.csproj", "{B8F5E373-0435-4ACE-A98E-3C4C0D6FCFAC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MarioBTXNAContent", "MarioBTXNA\MarioBTXNAContent\MarioBTXNAContent.contentproj", "{F0020792-E35A-44C6-8650-F0F72CED2F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F5E373-0435-4ACE-A98E-3C4C0D6FCFAC}.Debug|x86.ActiveCfg = Debug|x86
+		{B8F5E373-0435-4ACE-A98E-3C4C0D6FCFAC}.Debug|x86.Build.0 = Debug|x86
+		{B8F5E373-0435-4ACE-A98E-3C4C0D6FCFAC}.Release|x86.ActiveCfg = Release|x86
+		{B8F5E373-0435-4ACE-A98E-3C4C0D6FCFAC}.Release|x86.Build.0 = Release|x86
+		{F0020792-E35A-44C6-8650-F0F72CED2F54}.Debug|x86.ActiveCfg = Debug|x86
+		{F0020792-E35A-44C6-8650-F0F72CED2F54}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F8A448-DB88-4DFD-8C26-90B1A0FA884D}
+	EndGlobalSection
+EndGlobal

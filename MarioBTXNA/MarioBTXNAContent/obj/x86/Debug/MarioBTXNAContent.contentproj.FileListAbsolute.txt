@@ -1,0 +1,2 @@
+E:\VisualStudio2008\Projects\MarioBTXNA\MarioBTXNA\MarioBTXNAContent\obj\x86\Debug\MarioBTXNAContent.contentprojAssemblyReference.cache
+E:\VisualStudio2008\Projects\MarioBTXNA\MarioBTXNA\MarioBTXNAContent\obj\x86\Debug\MarioBTXNAContent.contentproj.CoreCompileInputs.cache
